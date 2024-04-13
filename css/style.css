@@ -12,7 +12,7 @@ body {
 }   
 
 #container {
-    width: 720px;
+    width: 750px;
     margin: 0 auto;
 }
 
@@ -51,7 +51,7 @@ ul {
 #topo ul a {
     font-size: 0.9em;
     display: block;
-    padding: 0.5em 1.3em;
+    padding: 0.5em 1.5em;
     line-height: 2.1em;
     text-decoration: none;
     color: white;
@@ -90,6 +90,7 @@ body.fotos #navegacao a#fotos {
     float: left;
     background: blue;
     text-align: center;
+    margin: 0 0 20px 195px;
 }
 
 #secundario {
@@ -97,6 +98,7 @@ body.fotos #navegacao a#fotos {
     float: left;
     background: green;
     text-align: center;
+    margin: 0 0 20px 15px;
 }
 
 #lateral {
@@ -104,6 +106,7 @@ body.fotos #navegacao a#fotos {
     float: left;
     background: yellow;
     text-align: center;
+    margin: 0 0 20px -750px;
 }
 
 /* Rodapé */

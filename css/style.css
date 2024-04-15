@@ -51,7 +51,7 @@ ul {
 #topo ul a {
     font-size: 0.9em;
     display: block;
-    padding: 0.5em 1.5em;
+    padding: 0.5em 1.4em;
     line-height: 2.1em;
     text-decoration: none;
     color: white;
@@ -88,8 +88,6 @@ body.fotos #navegacao a#fotos {
 #lateral {
     width: 180px;
     float: left;
-    background: yellow;
-    text-align: center;
     margin: 0 0 20px -750px;
 }
 
@@ -106,6 +104,7 @@ body.fotos #navegacao a#fotos {
     float: left;
     background: blue;
     margin: 0 0 20px 195px;
+    text-align: center;
 }
 
 #duas-colunas #primario {
@@ -123,6 +122,27 @@ body.fotos #navegacao a#fotos {
     background: green;
     text-align: center;
     margin: 0 0 20px 15px;
+}
+
+/* Caixa */
+
+.caixa {
+    background: #f3f3f3 url(../images/fundo-caixa.png);
+    margin: 10px 0;
+    padding: 5px;
+}
+
+h2 {
+    font-size: 1em;
+    background: #294c71;
+    color: white;
+    padding: 5px;
+}
+
+.caixa-conteudo {
+    background: white;
+    padding: 5px;
+    margin-top: 5px;
 }
 
 /* Rodapé */

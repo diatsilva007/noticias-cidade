@@ -104,7 +104,6 @@ body.fotos #navegacao a#fotos {
     float: left;
     background: blue;
     margin: 0 0 20px 195px;
-    text-align: center;
 }
 
 #duas-colunas #primario {
@@ -158,9 +157,33 @@ h2 {
 
 #lateral ul a:hover {
     color: #a1a1a1;
+    background: #f9f9f9 url(../images/marcador.png) no-repeat left center;
+    padding-left: 20px;
+}
+
+/* Formatando formulários */
+
+label {
+    display: block;
+    cursor: pointer;
+}
+
+input {
+    font-size: 0.9em;
+    background-color: white;
+    padding: 5px;
+    width: 125px;
+}
+
+input.submit {
+    width: 80px;
+    color: white;
+    background-color: #b10333;
+    border: 2px solid #870529;
 }
 
 /* Rodapé */
+
 #container-rodape {
     clear: both;
     background: #294c71;
@@ -169,7 +192,7 @@ h2 {
 
 #rodape {
     width: 750px;
-    margin: 0 auto;
+    margin: 0 auto; 
     color: white;
     text-align: center;
 }

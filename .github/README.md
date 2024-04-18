@@ -1,7 +1,7 @@
 
  <h1 align="center"> 📂 Projeto - 🗣️ Notícias cidade - Seu site de notícias 📰</h1>
  
- <img src="" alt="Notícias cidade" width="1280" height="400">
+ <img src="https://github.com/diatsilva007/noticias-cidade/blob/main/.github/Notcias_cidade-Seu_site_de_Notcias.gif" alt="Site - Notícias cidade" width="1280" height="350">
 
  <h1 align="left"> ⬇️ Sobre </h1>
 

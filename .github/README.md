@@ -5,7 +5,7 @@
 
  <h1 align="left"> ⬇️ Sobre </h1>
 
- **escreva aqui sobre o projeto...**
+ **Resumidamente, o projeto fictício notícias cidade é bem simples. Apresentando barras de navegações tanto vertical quanto horizontal, layouts estruturados contendo: uma, duas, e três colunas. Possui também, textos e links. E por fim, exibe um formulário formatado para cadastro de e-mail...**
 
 <div align="center">
  
@@ -16,7 +16,7 @@
 
  <h1> ⬇️ Deploy </h1>
 
- 
+ https://noticias-cidade-sandy.vercel.app/
 
   # 🙅‍♂️ Autor
 | [<img src="https://avatars.githubusercontent.com/u/143373573?v=4" width="100" height="100"><br><sub>Diogo Ataide</sub>](https://github.com/diatsilva007)
